@@ -1,0 +1,5 @@
+{
+    "name": "NewPowerCoin",
+    "symbol": "NPC",
+    "algorithm": "neoscrypt"
+}
